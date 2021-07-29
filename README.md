@@ -4,12 +4,12 @@
 
 *이텔릭체*
 **두껍게**
-![istockphoto-505412046-612x612](https://user-images.githubusercontent.com/88136749/127470356-079a7e62-64af-4a58-bd63-93d40915799d.jpg)
+![istockphoto-505412046-612x612](https://user-images.githubusercontent.com/88136749/127470356-079a7e62-64af-4a58-bd63-93d40915799d.jpg){}
 
 
 ## Welcome to 황태원 Pages
 
-You can use the [editor on GitHub](https://github.com/TaewonHwang/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [황태원 홈페이지](https://taewonhwang.github.io/chatbot/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
