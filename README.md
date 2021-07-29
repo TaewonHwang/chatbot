@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 황태원 Pages
 
 You can use the [editor on GitHub](https://github.com/TaewonHwang/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
