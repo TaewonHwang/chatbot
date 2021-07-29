@@ -4,7 +4,8 @@
 
 *이텔릭체*
 **두껍게**
-https://user-images.githubusercontent.com/88136749/127469751-df3adfaa-1525-44f7-8992-06c43deebabd.jpg
+![istockphoto-505412046-612x612](https://user-images.githubusercontent.com/88136749/127470356-079a7e62-64af-4a58-bd63-93d40915799d.jpg)
+
 
 ## Welcome to 황태원 Pages
 
