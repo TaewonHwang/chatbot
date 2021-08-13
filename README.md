@@ -20,8 +20,7 @@
 
 
 
-![](https://user-images.githubusercontent.com/88136749/129310682-97aec683-0fdc-4df8-aec5-73eecc61de54.jpg)
-
+![](https://user-images.githubusercontent.com/88136749/129309235-ae49a75c-a7db-48d5-bdff-616d433c3ec5.jpg)
 
 ---
 ![istockphoto-505412046-612x612](https://image.shutterstock.com/image-photo/modern-green-city-powered-only-600w-553614883.jpg){}
