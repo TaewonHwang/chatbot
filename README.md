@@ -20,7 +20,7 @@
 
 
 
-![](https://user-images.githubusercontent.com/88136749/129310682-97aec683-0fdc-4df8-aec5-73eecc61de54.jpg)
+
 
 
 ---
