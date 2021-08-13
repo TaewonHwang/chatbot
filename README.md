@@ -14,13 +14,13 @@
 
 ## 💧수소연료전지💧가 뭔가요?
 ### 물을 전기분해하면 전극에서 수소와 산소가 발생 되는데, 연료전지는 이러한 전기분해의 역반응을 이용한 장치입니다.
-
+![](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA5MTRfOTkg%2FMDAxNjAwMDU5MjU1MTIy.3adjBhvTsiXntOTEvabUkqFM30gRTEJbygVFvjsV9tkg.hsSjagzsVsebdSJcqT1uKhR3WC9GNRCskbxIbsPihIsg.PNG.code123123%2F2.png&type=sc960_832)
 ## ☁풍력발전☁이란 무엇인가요?
 ### 풍력 발전기는 바람의 에너지를 전기 에너지로 바꿔주는 장치로서, 풍력 발전기의 날개를 회전시켜 이때 생긴 날개의 회전력으로 전기를 생산하는 방식입니다.
 
 
 
-
+![](https://user-images.githubusercontent.com/88136749/129310682-97aec683-0fdc-4df8-aec5-73eecc61de54.jpg)
 
 
 ---
